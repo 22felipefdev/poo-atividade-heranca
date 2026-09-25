@@ -1,0 +1,14 @@
+C:\Users\felps\source\repos\Heranca\Heranca\obj\Debug\net10.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felps\source\repos\Heranca\Heranca\obj\Debug\net10.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\felps\source\repos\Heranca\Heranca\obj\Debug\net10.0\Heranca.AssemblyInfo.cs
+C:\Users\felps\source\repos\Heranca\Heranca\obj\Debug\net10.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\felps\source\repos\Heranca\Heranca\bin\Debug\net10.0\Heranca.exe
+C:\Users\felps\source\repos\Heranca\Heranca\bin\Debug\net10.0\Heranca.deps.json
+C:\Users\felps\source\repos\Heranca\Heranca\bin\Debug\net10.0\Heranca.runtimeconfig.json
+C:\Users\felps\source\repos\Heranca\Heranca\bin\Debug\net10.0\Heranca.dll
+C:\Users\felps\source\repos\Heranca\Heranca\bin\Debug\net10.0\Heranca.pdb
+C:\Users\felps\source\repos\Heranca\Heranca\obj\Debug\net10.0\Heranca.dll
+C:\Users\felps\source\repos\Heranca\Heranca\obj\Debug\net10.0\refint\Heranca.dll
+C:\Users\felps\source\repos\Heranca\Heranca\obj\Debug\net10.0\Heranca.pdb
+C:\Users\felps\source\repos\Heranca\Heranca\obj\Debug\net10.0\Heranca.genruntimeconfig.cache
+C:\Users\felps\source\repos\Heranca\Heranca\obj\Debug\net10.0\ref\Heranca.dll
